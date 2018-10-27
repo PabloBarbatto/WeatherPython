@@ -1,0 +1,6 @@
+#First,  we see that temperature is dependent on the latitude. The closer to the equator the higher the temperature. 
+#
+#Secondly, we can tell that there is no correlation between latitude and cloudiness.
+#
+#Thirdly, Thirdly, we can see that its more common to have lower amount of windspeed 
+#than higher and the there is no correlation between latitude and wind speed. 
